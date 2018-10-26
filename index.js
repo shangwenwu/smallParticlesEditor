@@ -1,10 +1,8 @@
-export default (function(module){
-  module.aa = 111;
-  module.cc = function(arg){
+
+exports.dd = {
+  aa:111,
+  cc: function (arg) {
     this.aa = arg;
     console.log(arg)
   }
-  return module
-})((function(){
-  return {}
-})());
+};

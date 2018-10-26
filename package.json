@@ -1,6 +1,6 @@
 {
   "name": "small_particles_edit",
-  "version": "0.0.0",
+  "version": "0.0.3",
   "description": "小颗粒编辑器资源库：模板、组件、区块",
   "main": "index.js",
   "scripts": {
